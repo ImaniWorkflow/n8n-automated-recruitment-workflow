@@ -148,3 +148,17 @@ My current automation toolkit includes:
 * Bolt.new
 
 This project is part of my growing automation portfolio, where I apply what I have learned to practical business use cases.
+
+## Workflow Screenshots
+
+### n8n Workflow
+![n8n Workflow](screenshots/Workfow.png)
+
+### Application Form
+![Application Form](screenshots/application-form.png)
+
+### Google Sheets
+![Google Sheets](screenshots/google-sheet.png)
+
+### Email Automation
+![Email Automation](screenshots/email.png)
