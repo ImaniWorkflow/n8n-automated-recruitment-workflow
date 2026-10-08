@@ -152,13 +152,14 @@ This project is part of my growing automation portfolio, where I apply what I ha
 ## Workflow Screenshots
 
 ### n8n Workflow
-![n8n Workflow](screenshots/Workfow.png)
+![n8n Workflow](screenshots/Workflow.png)
 
 ### Application Form
-![Application Form](screenshots/application-form.png)
+![Application Form](screenshots/Application-form.png)
 
 ### Google Sheets
-![Google Sheets](screenshots/google-sheet.png)
+![Google Sheets](screenshots/Google-sheet.png)
 
 ### Email Automation
-![Email Automation](screenshots/email.png)
+![Email Automation](screenshots/Automated-Email-1.png)
+![Email Automation](screenshots/Automated-Email-2.png)
